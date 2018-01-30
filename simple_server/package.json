@@ -1,0 +1,22 @@
+{
+  "name": "simple_server",
+  "version": "1.0.0",
+  "description": "expressjs based simple server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pssalam/expressjs/simple_server"
+  },
+  "keywords": [
+    "expressjs",
+    "simpleserver"
+  ],
+  "author": "Shibu_Salam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
